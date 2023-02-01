@@ -1,3 +1,5 @@
+{
+  "posts": [
     {
       "id_surah": 1,
       "title": "Surah Abasa",
@@ -8,3 +10,8 @@
       "img_src": "https://www.instagram.com/restu_ajisukma/",
       "src": "https://www.instagram.com/restu_ajisukma/"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
