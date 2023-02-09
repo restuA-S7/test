@@ -2,13 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "Surah Abasa",
+      "title": "Surah AlAla",
       "artis": "Imam Mishary",
       "album": "surah",
       "track": "surahPlay",
       "year": 2022,
       "img_src": "https://www.instagram.com/restu_ajisukma/",
-      "src": "https://www.instagram.com/restu_ajisukma/"
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAlAla.mp3"
     },
     {
       "id": 2,
