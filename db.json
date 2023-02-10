@@ -10,8 +10,18 @@
       "img_src": "not fond",
       "src": "https://github.com/restuA-S7/test/raw/main/SuratAnNaba.mp3"
     },
-    {
+     {
       "id": 2,
+      "title": "Surah Abasa",
+      "artis": "Imam Mishary",
+      "album": "surah",
+      "track": "surahPlay",
+      "year": 2022,
+      "img_src": "not fond",
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAbasa.mp3"
+    },
+    {
+      "id": 3,
       "title": "Surah Al-Ala",
       "artis": "Imam Mishary",
       "album": "surah",
@@ -19,16 +29,6 @@
       "year": 2022,
       "img_src": "not fond",
       "src": "https://github.com/restuA-S7/test/raw/main/SuratAlAla.mp3"
-    },
-    {
-      "id": 3,
-      "title": "Surah Abasa",
-      "artis": "Imam Mishary",
-      "album": "surah",
-      "track": "surahPlay",
-      "year": 2022,
-      "img_src": "not fond",
-      "src": "https://github.com/restuA-S7/test/raw/main/SuratAnNaba.mp3"
     }
   ],
   "profile": {
