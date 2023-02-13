@@ -8,7 +8,7 @@
     "track": "ayatPlay",
     "year": 2022,
     "img_src": "https://github.com/restuA-S7/test/raw/main/masjid.jpg",
-    "src": "no"
+    "src": "https://github.com/restuA-S7/test/raw/main/080001.mp3"
     },
     {
     "id": 2,
@@ -18,7 +18,7 @@
     "track": "ayatPlay",
     "year": 2022,
     "img_src": "https://github.com/restuA-S7/test/raw/main/masjid.jpg",
-    "src": "no"
+    "src": "https://github.com/restuA-S7/test/raw/main/080002.mp3"
     },
     {
     "id": 3,
@@ -28,7 +28,7 @@
     "track": "ayatPlay",
     "year": 2022,
     "img_src": "https://github.com/restuA-S7/test/raw/main/masjid.jpg",
-    "src": "no"
+    "src": "https://github.com/restuA-S7/test/raw/main/080003.mp3"
     }
   ],
   "profile": {
