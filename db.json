@@ -10,8 +10,18 @@
       "img_src": "https://github.com/restuA-S7/test/raw/main/masjid.jpg",
       "src": "https://github.com/restuA-S7/test/raw/main/SuratAnNaba.mp3"
     },
-     {
+    {
       "id": 2,
+      "title": "Surah An-Nazi'at",
+      "artist": "Imam Mishary",
+      "album": "surah",
+      "track": "surahPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan.jpg",
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAnNazi'at.mp3"
+    },
+    {
+      "id": 3,
       "title": "Surah Abasa",
       "artist": "Imam Mishary",
       "album": "surah",
@@ -21,7 +31,47 @@
       "src": "https://github.com/restuA-S7/test/raw/main/SuratAbasa.mp3"
     },
     {
-      "id": 3,
+      "id": 4,
+      "title": "Surah At-Takwir",
+      "artist": "Imam Mishary",
+      "album": "surah",
+      "track": "surahPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan2.jpg",
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAtTakwir.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Surah Al-Infitar",
+      "artist": "Imam Mishary",
+      "album": "surah",
+      "track": "surahPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan4.jpg",
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAlInfitar.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Surah Al-Mutaffifin",
+      "artist": "Imam Mishary",
+      "album": "surah",
+      "track": "surahPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan3.jpg",
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAlMutaffifn.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Surah Al-Buruj",
+      "artist": "Imam Mishary",
+      "album": "surah",
+      "track": "surahPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan.jpg",
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAlBuruj.mp3"
+    },
+    {
+      "id": 8,
       "title": "Surah Al-Ala",
       "artist": "Imam Mishary",
       "album": "surah",
@@ -29,6 +79,16 @@
       "year": 2022,
       "img_src": "https://github.com/restuA-S7/test/raw/main/pemandanganuntukQuran.jpg",
       "src": "https://github.com/restuA-S7/test/raw/main/SuratAlAla.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Surah Al-Fajr",
+      "artist": "Imam Mishary",
+      "album": "surah",
+      "track": "surahPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan4.jpg",
+      "src": "https://github.com/restuA-S7/test/raw/main/SuratAlFajr.mp3"
     }
   ],
   "profile": {
